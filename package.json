@@ -1,0 +1,25 @@
+{
+  "name": "cng-test",
+  "version": "1.0.0",
+  "description": "A developing version of CodeNGreen server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunzi1520/cng-test.git"
+  },
+  "keywords": [
+    "CodeNGreen",
+    "server",
+    "realtime",
+    "app"
+  ],
+  "author": "Duy Thai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunzi1520/cng-test/issues"
+  },
+  "homepage": "https://github.com/sunzi1520/cng-test#readme"
+}
